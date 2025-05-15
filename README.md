@@ -1,4 +1,4 @@
-# 🎧 ScheduLearn — Your AI Scheduler Agent
+# 🎧 ScheduLearn — Your AI Scheduling Agent
 
 **ScheduLearn** is an AI-powered assistant that intelligently schedules podcasts and videos (from Spotify and YouTube) into your Google Calendar, based on:  
 - 📌 Preferred Topics  
